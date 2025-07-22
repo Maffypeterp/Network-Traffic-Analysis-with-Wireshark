@@ -4,8 +4,7 @@ Network traffic analysis involves monitoring and examining data packets that flo
 
 ## Objective
 
-Network traffic analysis project aimed to capture and analyze real-time network traffic using Wireshark. Identify and interpret common network protocols (e.g., TCP, UDP, HTTP, DNS). Recognize abnormal or suspicious traffic patterns indicating potential security threats. To enhance understanding of packet-level communication and network behavior.
-
+Network traffic analysis project involved capturing and analyzing network traffic using Wireshark to evaluate network behavior, identify potential performance issues, and detect any abnormal or suspicious activity. The goal was to gain practical experience in traffic capture, protocol analysis, and threat detection, while also understanding network behavior in a real-world environment..
 
 ### Skills Learned
 
@@ -18,11 +17,17 @@ Network traffic analysis project aimed to capture and analyze real-time network 
 
 ### Tools Used
 
-*** First Packet Capture:2025-07-21 23:52:30
+*** Primary Tool: Wireshark (Version 4.0.3)
 
-*** Last  Packet Capture:2025-07-21 23:55:38
+*** Operating System: Linux6.1.0-kali5-amd64
 
-*** Network Interface used: Eth0
+*** Traffic Sources: Browsing, background applications
+
+*** Capture Duration: 10 minutes
+
+*** Date/Time of Capture: July 21,2025, 23:00-23:10
+
+*** Network Interface : Ethernet 0
 
 ### Steps
 
