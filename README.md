@@ -33,7 +33,8 @@ Click on network interface to start capturing traffic. You will see packets bein
 1.1 Generate traffic:
 To see some traffic, open a web browser and visit a websites. This will generate HTTP/HTTPS traffic that Wireshark will capture
 
-[Generate traffic] [Link]
+[Generate traffic] [https://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark/blob/main/Screenshot%202025-07-22%20045521.png]
+
 1.2 Stop Capture:
 Click the red button to stop the capture after you have collected enough data.
 
