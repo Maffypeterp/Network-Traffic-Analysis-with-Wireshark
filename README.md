@@ -42,7 +42,7 @@ Click the red button to stop the capture after you have collected enough data.
 
 *Ref 1. Capture Result*
 
-[stop capture] [Link]
+[stop capturehttps://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark/blob/b621087ce1bf84deefe205753dc1bf5d2ff9706b/Screenshot%202025-07-22%20045617.png] 
 
 ### 2. Analyze Network Traffic
 
