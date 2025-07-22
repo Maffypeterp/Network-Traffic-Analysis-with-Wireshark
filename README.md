@@ -57,7 +57,7 @@ Use display filters to focus on specific types. Enter a filter expressions such 
 
 *Ref 2. Filter Traffic Result*
 This screenshot shows the result of filtering traffic using display filters
-[Filter Traffic][Link]
+[Filter Traffic](https://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark/blob/main/Screenshot%202025-07-22%20050653.png)
 
 2.3 Follow TCP/UDP Streams:
 Right-click on a packet and select 'Follow'-> 'TCP Stream' or 'UDP Stream' to see the entire conversation.
